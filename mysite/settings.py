@@ -25,7 +25,7 @@ SECRET_KEY = 'tfr%*($_g827u+qy&#62nn+8-%v)lql4=r70d79do98ppw17(e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '.amazonaws.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
